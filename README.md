@@ -1,5 +1,5 @@
 # 📍Basecamp-JavaScript
-Aprendendo JavaScript ( Maps e Sets )
+Aprendendo JavaScript ( Maps, Sets, Erros e API's )
 
 ## _*Atividade 1 - Maps*_ 🗺️
 
@@ -33,3 +33,16 @@ Aprendendo JavaScript (Erros)
   <li> Utilize a declaração try...catch;
   <li> Filtre as chamadas de catch por cada tipo de erro utilizando o operador instanceof;
 </ul>
+
+## _*Atividade 4 - API'S*_ 
+
+Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão.
+
+<ul>
+ <li>Utilize a API https://thatcopy.pw/catapi/rest/ para fazer as chamadas com o método fetch();
+ <li>Utilize seus conhecimentos na manipulação do DOM para criar a imagem e ativar o evento de clique do botão!]
+</ul>
+
+## _*DEMO:*_
+  
+  
