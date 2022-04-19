@@ -17,3 +17,19 @@ Aprendendo JavaScript ( Maps e Sets )
   <li> Dado o Array [30, 30, 40, 5, 223, 2049, 3034, 5], retorne outro array apenas com valores únicos;
 </ol>
 
+Aprendendo JavaScript (Erros)
+
+## _*Atividade 3 - Erros*_ :x:
+
+<ul>
+  <li> Crie uma função que recebe um array e um número;
+  <li> Realize as seguintes validações:
+  <ul>
+    <li> Se os parâmetros não forem enviados, lance um erro do tipo ReferenceError;
+    <li> Se o array não for do tipo 'object', lance um erro do tipo TypeError;
+    <li> Se o número não for do tipo 'number', lance um erro do tipo TypeError;
+    <li> Se o tamanho da Array for diferente do número enviado como parâmetro, lance um erro do tipo RangeError;
+  </ul>
+  <li> Utilize a declaração try...catch;
+  <li> Filtre as chamadas de catch por cada tipo de erro utilizando o operador instanceof;
+</ul>
