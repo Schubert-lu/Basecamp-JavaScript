@@ -47,3 +47,21 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
  
   <img src = "https://user-images.githubusercontent.com/103296710/164119759-00cb091e-b755-4185-8f29-58032d3ef820.gif">
   
+## _*Atividade 5 - Orientação a Objetos*_ ✏️
+
+Nesta atividade, vamos testar os conceitos de Orientação a Objetos simulando a criação de diversos tipos de contas bancárias e operações disponíveis em cada uma. 💸
+
+<ul>
+  
+  <li>Crie a classe ContaBancaria, que possui os parâmetros agencia, numero, tipo e saldo;
+  <li>Dentro de ContaBancaria, construa o getter e o setter de saldo;
+  <li>Dentro de ContaBancaria, crie os métodos sacar e depositar;
+  <li>Crie uma classe-filha chamada ContaCorrente que herda todos esses parâmetros e ainda possua o parâmetro cartaoCredito;
+  <li>Ainda em ContaCorrente, construa o getter e o setter de cartaoCredito;
+  <li>Ainda em ContaCorrente, faça com que o tipo seja 'conta corrente' por padrão;
+  <li>Crie uma classe-filha chamada ContaPoupanca que herda todos os parâmetros de ContaBancaria;
+  <li>Crie uma classe-filha chamada ContaUniversitaria que herda todos os parâmetros de ContaBancaria;
+  <li>Faça com que o método saque de ContaUniversitaria apenas seja capaz de sacar valores menores que 500 reais.
+    
+</ul>
+
