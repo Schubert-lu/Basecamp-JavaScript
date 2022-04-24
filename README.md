@@ -91,3 +91,4 @@ Crie uma função que recebe uma lista de preços e um número representando o s
 
 ## _*DEMO:*_
 
+<img src = "https://user-images.githubusercontent.com/103296710/164951017-1e40e770-daba-4b34-92b4-af8957ab9c5f.gif">
