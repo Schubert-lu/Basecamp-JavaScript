@@ -78,3 +78,16 @@ Filtre e retorne todos os números pares de um array.
 Some todos os números de um array; 
 Crie uma função que recebe uma lista de preços e um número representando o saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviada.
 </ul>
+
+## _*Atividade 7: Light Mode/Dark Mode*_
+
+<ul>
+<li> Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
+<li> Copie o HTML e o CSS deste repositório
+<li> Crie um arquivo chamado scripts.js na sua pasta assets/js
+<li> Selecione os elementos: h1, button, footer e body
+<li> Se os elementos possuirem a classe dark-mode, modifique seus estilos. Caso contrário, volte os estilos para o original
+</ul>
+
+## _*DEMO:*_
+
